@@ -1,25 +1,17 @@
-# Maven
-target/
-
-# IntelliJ
-.idea/
-*.iml
-
 # Eclipse
+.metadata/
 .project
 .classpath
 .settings/
 
+# Maven
+target/
+
 # VS Code
 .vscode/
 
+# IntelliJ
+.idea/
+
 # Logs
 *.log
-
-# Java
-*.class
-
-# Environment
-.env
-
-.metadata/
